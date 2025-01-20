@@ -8,9 +8,6 @@ Je suis passionné par le développement et j'aime relever de nouveaux défis. C
 
 [Java, HTML, CSS, JavaScript, C#, TWIG, SQL, PHP, Symfony, VueJS, MongoDB, CassandraDB, MySQL...]
 
-**Contact:**
-* **LinkedIn:** [Ton lien LinkedIn]
-* **Mail:** [Ton adresse mail]
 
 **Temps de programmation depuis le 05/12/2024:**
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
