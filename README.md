@@ -1,16 +1,22 @@
-## Hi there 👋
+## Bonjour, je suis Thomas Loye, bienvenue sur mon compte Github 👋
 
-<!--
-**th0mate/th0mate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en informatique à l'IUT de Montpellier.**
 
-Here are some ideas to get you started:
+Je suis passionné par le développement et j'aime relever de nouveaux défis. Ce dépôt contient quelques-uns de mes projets personnels. N'hésitez pas à les explorer et à me contacter si vous avez des questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies:**
+
+[Java, HTML, CSS, JavaScript, C#, TWIG, SQL, PHP, Symfony, VueJS, MongoDB, CassandraDB, MySQL...]
+
+**Contact:**
+* **LinkedIn:** [Ton lien LinkedIn]
+* **Mail:** [Ton adresse mail]
+
+**Temps de programmation depuis le 05/12/2024:**
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+**Actualités:**
+- 🔭 Actuellement en alternance chez Synapse Informatique pour ma dernière année de BUT
+- 🌱 J'envisage de poursuivre mes études en cycle ingénieur
+- 🤔 Je travaille sur plusieurs projets, comme FluoGraphiX pour le BRGM en ce moment même
+
