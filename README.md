@@ -18,6 +18,6 @@ Je suis passionné par le développement et j'aime relever de nouveaux défis. C
 
 **Actualités:**
 - 🔭 Actuellement en alternance chez Synapse Informatique pour ma dernière année de BUT
-- 🌱 J'envisage de poursuivre mes études en cycle ingénieur
+- 🌱 Je poursuivrai mes études en master expert en développement full-stack dès le mois de septembre, en alternance
 - 🤔 Je travaille sur plusieurs projets, comme FluoGraphiX pour le BRGM en ce moment même
 
