@@ -7,7 +7,7 @@ Je suis passionné par le développement et j'aime relever de nouveaux défis. C
 
 **Technologies:**
 
-[Java, HTML, CSS, JavaScript, C#, TWIG, SQL, PHP, Symfony, VueJS, MongoDB, CassandraDB, MySQL...]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
