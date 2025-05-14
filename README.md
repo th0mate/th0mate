@@ -39,9 +39,11 @@
 
 ## ✨ Projets phares
 
-- 🎨 **[FluoGraphiX](https://github.com/th0mate/FluoGraphiX)** — App VueJS + Electron pour tracer et calibrer des données fluorimétriques (BRGM)  
-- 💧 Projet d'intégration de nouvelles fonctionnalités sur la qualité des eaux dans un logiciel métier de gestion hydrologique  
-- 🧪 Explorations en JavaFX autour de l’art numérique interactif (inspiré de Daniel Rozin)
+- 🎨 **[FluoGraphiX](https://github.com/th0mate/BRGM-FluoGraphiX_v1)** — App VueJS + Electron pour tracer et calibrer des données fluorimétriques (Stage BRGM - en cours)  
+- 💧 Projet d'intégration de nouvelles fonctionnalités sur la qualité des eaux dans un logiciel métier de gestion hydrologique (Alternance Synapse Informatique - en cours) 
+- 🧪 Explorations en JavaFX autour de l’art numérique interactif (inspiré de Daniel Rozin - en pause)  
+- 💊 **[TimePills](https://github.com/th0mate/TimePills)** - Site web PHP Symfony pour aider à la prise de traitements médicaux (Projet Perso - en pause)
+- 💼 **[Format'IUT V2](https://github.com/RomainTouze/FormatIUT)** - Site web PHP Symfony de gestion des stages et des alternances pour les IUTs (Projet Perso - en cours)
 
 ---
 
